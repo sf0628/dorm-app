@@ -1,1 +1,1 @@
-a social media web app for dorms
+a social media website for dorms
